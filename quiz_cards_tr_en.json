@@ -1,0 +1,322 @@
+[
+  {
+    "question": "ability",
+    "answerTitle": "yetenek",
+    "correctAnswer": "yetenek",
+    "wrongAnswer": "fırsat",
+    "exampleSentence": "She has the ability to learn quickly.",
+    "boxId": 0
+  },
+  {
+    "question": "abroad",
+    "answerTitle": "yurt dışı",
+    "correctAnswer": "yurt dışı",
+    "wrongAnswer": "yurt içi",
+    "exampleSentence": "He wants to study abroad next year.",
+    "boxId": 0
+  },
+  {
+    "question": "absence",
+    "answerTitle": "yokluk",
+    "correctAnswer": "yokluk",
+    "wrongAnswer": "yoklama",
+    "exampleSentence": "Her absence was noticed by everyone.",
+    "boxId": 0
+  },
+  {
+    "question": "accept",
+    "answerTitle": "kabul etmek",
+    "correctAnswer": "kabul etmek",
+    "wrongAnswer": "reddetmek",
+    "exampleSentence": "They decided to accept the offer.",
+    "boxId": 0
+  },
+  {
+    "question": "access",
+    "answerTitle": "erişim",
+    "correctAnswer": "erişim",
+    "wrongAnswer": "giriş",
+    "exampleSentence": "You need a password to get access to the system.",
+    "boxId": 0
+  },
+  {
+    "question": "accident",
+    "answerTitle": "kaza",
+    "correctAnswer": "kaza",
+    "wrongAnswer": "olay",
+    "exampleSentence": "She broke her leg in a car accident.",
+    "boxId": 0
+  },
+  {
+    "question": "accurate",
+    "answerTitle": "doğru",
+    "correctAnswer": "doğru",
+    "wrongAnswer": "yaklaşık",
+    "exampleSentence": "The information in this report is accurate.",
+    "boxId": 0
+  },
+  {
+    "question": "achieve",
+    "answerTitle": "başarmak",
+    "correctAnswer": "başarmak",
+    "wrongAnswer": "başlamak",
+    "exampleSentence": "He worked hard to achieve his goals.",
+    "boxId": 0
+  },
+  {
+    "question": "act",
+    "answerTitle": "davranmak",
+    "correctAnswer": "davranmak",
+    "wrongAnswer": "rol",
+    "exampleSentence": "You should act more carefully in meetings.",
+    "boxId": 0
+  },
+  {
+    "question": "actual",
+    "answerTitle": "gerçek",
+    "correctAnswer": "gerçek",
+    "wrongAnswer": "hayali",
+    "exampleSentence": "The actual cost was higher than we expected.",
+    "boxId": 0
+  },
+  {
+    "question": "additional",
+    "answerTitle": "ek",
+    "correctAnswer": "ek",
+    "wrongAnswer": "temel",
+    "exampleSentence": "We need additional time to finish the project.",
+    "boxId": 0
+  },
+  {
+    "question": "adjust",
+    "answerTitle": "ayarlamak",
+    "correctAnswer": "ayarlamak",
+    "wrongAnswer": "değiştirmek",
+    "exampleSentence": "You can adjust the volume with this button.",
+    "boxId": 0
+  },
+  {
+    "question": "admire",
+    "answerTitle": "hayran olmak",
+    "correctAnswer": "hayran olmak",
+    "wrongAnswer": "kıskanmak",
+    "exampleSentence": "I really admire her patience.",
+    "boxId": 0
+  },
+  {
+    "question": "advanced",
+    "answerTitle": "ileri",
+    "correctAnswer": "ileri",
+    "wrongAnswer": "başlangıç",
+    "exampleSentence": "He is taking an advanced English course.",
+    "boxId": 0
+  },
+  {
+    "question": "advertise",
+    "answerTitle": "reklam yapmak",
+    "correctAnswer": "reklam yapmak",
+    "wrongAnswer": "duyurmak",
+    "exampleSentence": "They advertise their products on social media.",
+    "boxId": 0
+  },
+  {
+    "question": "advice",
+    "answerTitle": "tavsiye",
+    "correctAnswer": "tavsiye",
+    "wrongAnswer": "bilgi",
+    "exampleSentence": "She gave me good advice about my career.",
+    "boxId": 0
+  },
+  {
+    "question": "afford",
+    "answerTitle": "karşılayabilmek",
+    "correctAnswer": "karşılayabilmek",
+    "wrongAnswer": "harcamak",
+    "exampleSentence": "I cannot afford to buy a new car.",
+    "boxId": 0
+  },
+  {
+    "question": "afterward",
+    "answerTitle": "sonrasında",
+    "correctAnswer": "sonrasında",
+    "wrongAnswer": "önce",
+    "exampleSentence": "We had dinner and went for a walk afterward.",
+    "boxId": 0
+  },
+  {
+    "question": "agency",
+    "answerTitle": "ajans",
+    "correctAnswer": "ajans",
+    "wrongAnswer": "şirket",
+    "exampleSentence": "She works for a travel agency.",
+    "boxId": 0
+  },
+  {
+    "question": "agreement",
+    "answerTitle": "anlaşma",
+    "correctAnswer": "anlaşma",
+    "wrongAnswer": "tartışma",
+    "exampleSentence": "Both sides signed the agreement.",
+    "boxId": 0
+  },
+  {
+    "question": "aid",
+    "answerTitle": "yardım",
+    "correctAnswer": "yardım",
+    "wrongAnswer": "ilaç",
+    "exampleSentence": "The organization sends aid to poor countries.",
+    "boxId": 0
+  },
+  {
+    "question": "aim",
+    "answerTitle": "hedef",
+    "correctAnswer": "hedef",
+    "wrongAnswer": "sonuç",
+    "exampleSentence": "Our main aim is to improve quality.",
+    "boxId": 0
+  },
+  {
+    "question": "alarm",
+    "answerTitle": "alarm",
+    "correctAnswer": "alarm",
+    "wrongAnswer": "zil",
+    "exampleSentence": "The alarm woke me up at 7 a.m.",
+    "boxId": 0
+  },
+  {
+    "question": "allow",
+    "answerTitle": "izin vermek",
+    "correctAnswer": "izin vermek",
+    "wrongAnswer": "zorlamak",
+    "exampleSentence": "My parents do not allow me to stay out late.",
+    "boxId": 0
+  },
+  {
+    "question": "almost",
+    "answerTitle": "neredeyse",
+    "correctAnswer": "neredeyse",
+    "wrongAnswer": "tamamen",
+    "exampleSentence": "I almost missed the train.",
+    "boxId": 0
+  },
+  {
+    "question": "amount",
+    "answerTitle": "miktar",
+    "correctAnswer": "miktar",
+    "wrongAnswer": "sayı",
+    "exampleSentence": "The total amount is higher than before.",
+    "boxId": 0
+  },
+  {
+    "question": "ancient",
+    "answerTitle": "antik",
+    "correctAnswer": "antik",
+    "wrongAnswer": "modern",
+    "exampleSentence": "They visited ancient cities in the region.",
+    "boxId": 0
+  },
+  {
+    "question": "anger",
+    "answerTitle": "öfke",
+    "correctAnswer": "öfke",
+    "wrongAnswer": "sabır",
+    "exampleSentence": "He tried to control his anger.",
+    "boxId": 0
+  },
+  {
+    "question": "announce",
+    "answerTitle": "duyurmak",
+    "correctAnswer": "duyurmak",
+    "wrongAnswer": "saklamak",
+    "exampleSentence": "They will announce the results tomorrow.",
+    "boxId": 0
+  },
+  {
+    "question": "annoy",
+    "answerTitle": "rahatsız etmek",
+    "correctAnswer": "rahatsız etmek",
+    "wrongAnswer": "eğlendirmek",
+    "exampleSentence": "Loud music can annoy your neighbors.",
+    "boxId": 0
+  },
+  {
+    "question": "annual",
+    "answerTitle": "yıllık",
+    "correctAnswer": "yıllık",
+    "wrongAnswer": "günlük",
+    "exampleSentence": "We have an annual meeting in January.",
+    "boxId": 0
+  },
+  {
+    "question": "answer",
+    "answerTitle": "cevap",
+    "correctAnswer": "cevap",
+    "wrongAnswer": "soru",
+    "exampleSentence": "His answer was short but clear.",
+    "boxId": 0
+  },
+  {
+    "question": "anxiety",
+    "answerTitle": "kaygı",
+    "correctAnswer": "kaygı",
+    "wrongAnswer": "rahatlık",
+    "exampleSentence": "She feels a lot of anxiety before exams.",
+    "boxId": 0
+  },
+  {
+    "question": "anybody",
+    "answerTitle": "herhangi biri",
+    "correctAnswer": "herhangi biri",
+    "wrongAnswer": "herkes",
+    "exampleSentence": "Anybody can join the discussion.",
+    "boxId": 0
+  },
+  {
+    "question": "anyway",
+    "answerTitle": "her neyse",
+    "correctAnswer": "her neyse",
+    "wrongAnswer": "aslında",
+    "exampleSentence": "Anyway, we should start the meeting now.",
+    "boxId": 0
+  },
+  {
+    "question": "apart",
+    "answerTitle": "ayrı",
+    "correctAnswer": "ayrı",
+    "wrongAnswer": "birlikte",
+    "exampleSentence": "They live miles apart from each other.",
+    "boxId": 0
+  },
+  {
+    "question": "appear",
+    "answerTitle": "görünmek",
+    "correctAnswer": "görünmek",
+    "wrongAnswer": "kaybolmak",
+    "exampleSentence": "He did not appear at the party.",
+    "boxId": 0
+  },
+  {
+    "question": "apply",
+    "answerTitle": "başvurmak",
+    "correctAnswer": "başvurmak",
+    "wrongAnswer": "iptal etmek",
+    "exampleSentence": "You can apply online for this job.",
+    "boxId": 0
+  },
+  {
+    "question": "appointment",
+    "answerTitle": "randevu",
+    "correctAnswer": "randevu",
+    "wrongAnswer": "toplantı",
+    "exampleSentence": "I have a dentist appointment at three.",
+    "boxId": 0
+  },
+  {
+    "question": "approach",
+    "answerTitle": "yaklaşım",
+    "correctAnswer": "yaklaşım",
+    "wrongAnswer": "uzaklık",
+    "exampleSentence": "We need a different approach to this problem.",
+    "boxId": 0
+  }
+]
