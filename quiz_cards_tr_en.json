@@ -318,5 +318,407 @@
     "wrongAnswer": "uzaklık",
     "exampleSentence": "We need a different approach to this problem.",
     "boxId": 1
-  }
+  },
+  [
+    {
+      "question": "achieve",
+      "answerTitle": "başarmak",
+      "correctAnswer": "başarmak",
+      "wrongAnswer": "kaybetmek",
+      "exampleSentence": "She worked hard to achieve her goals.",
+      "boxId": 1
+    },
+    {
+      "question": "benefit",
+      "answerTitle": "fayda",
+      "correctAnswer": "fayda",
+      "wrongAnswer": "zarar",
+      "exampleSentence": "This new policy will be of great benefit to us.",
+      "boxId": 1
+    },
+    {
+      "question": "confuse",
+      "answerTitle": "kafası karışmak",
+      "correctAnswer": "kafası karışmak",
+      "wrongAnswer": "kabul etmek",
+      "exampleSentence": "The complex instructions confused the students.",
+      "boxId": 1
+    },
+    {
+      "question": "decide",
+      "answerTitle": "karar vermek",
+      "correctAnswer": "karar vermek",
+      "wrongAnswer": "vazgeçmek",
+      "exampleSentence": "He couldn't decide which shirt to buy.",
+      "boxId": 1
+    },
+    {
+      "question": "encourage",
+      "answerTitle": "cesaretlendirmek",
+      "correctAnswer": "cesaretlendirmek",
+      "wrongAnswer": "vazgeçirmek",
+      "exampleSentence": "My parents always encouraged me to read.",
+      "boxId": 1
+    },
+    {
+      "question": "feature",
+      "answerTitle": "özellik",
+      "correctAnswer": "özellik",
+      "wrongAnswer": "gelecek",
+      "exampleSentence": "The camera's best feature is its zoom.",
+      "boxId": 1
+    },
+    {
+      "question": "generous",
+      "answerTitle": "cömert",
+      "correctAnswer": "cömert",
+      "wrongAnswer": "cimri",
+      "exampleSentence": "Thank you for your generous donation.",
+      "boxId": 1
+    },
+    {
+      "question": "humble",
+      "answerTitle": "alçakgönüllü",
+      "correctAnswer": "alçakgönüllü",
+      "wrongAnswer": "kaba",
+      "exampleSentence": "Despite his success, he remained humble.",
+      "boxId": 1
+    },
+    {
+      "question": "ignore",
+      "answerTitle": "görmezden gelmek",
+      "correctAnswer": "görmezden gelmek",
+      "wrongAnswer": "dikkat etmek",
+      "exampleSentence": "You shouldn't ignore the warning signs.",
+      "boxId": 1
+    },
+    {
+      "question": "journey",
+      "answerTitle": "yolculuk",
+      "correctAnswer": "yolculuk",
+      "wrongAnswer": "günlük",
+      "exampleSentence": "The journey took three days by train.",
+      "boxId": 1
+    },
+    {
+      "question": "knowledge",
+      "answerTitle": "bilgi",
+      "correctAnswer": "bilgi",
+      "wrongAnswer": "cehalet",
+      "exampleSentence": "Knowledge is power.",
+      "boxId": 1
+    },
+    {
+      "question": "loyal",
+      "answerTitle": "sadık",
+      "correctAnswer": "sadık",
+      "wrongAnswer": "hain",
+      "exampleSentence": "Dogs are known to be very loyal animals.",
+      "boxId": 1
+    },
+    {
+      "question": "mention",
+      "answerTitle": "bahsetmek",
+      "correctAnswer": "bahsetmek",
+      "wrongAnswer": "gizlemek",
+      "exampleSentence": "Did he mention where he was going?",
+      "boxId": 1
+    },
+    {
+      "question": "notice",
+      "answerTitle": "fark etmek",
+      "correctAnswer": "fark etmek",
+      "wrongAnswer": "not almak",
+      "exampleSentence": "I didn't notice that you were standing there.",
+      "boxId": 1
+    },
+    {
+      "question": "observe",
+      "answerTitle": "gözlemlemek",
+      "correctAnswer": "gözlemlemek",
+      "wrongAnswer": "hizmet etmek",
+      "exampleSentence": "Scientists observe the behavior of animals.",
+      "boxId": 1
+    },
+    {
+      "question": "persuade",
+      "answerTitle": "ikna etmek",
+      "correctAnswer": "ikna etmek",
+      "wrongAnswer": "kandırmak",
+      "exampleSentence": "I tried to persuade him to come with us.",
+      "boxId": 1
+    },
+    {
+      "question": "quality",
+      "answerTitle": "kalite",
+      "correctAnswer": "kalite",
+      "wrongAnswer": "miktar",
+      "exampleSentence": "We focus on quality, not quantity.",
+      "boxId": 1
+    },
+    {
+      "question": "regret",
+      "answerTitle": "pişman olmak",
+      "correctAnswer": "pişman olmak",
+      "wrongAnswer": "memnun olmak",
+      "exampleSentence": "I regret not studying harder for the exam.",
+      "boxId": 1
+    },
+    {
+      "question": "struggle",
+      "answerTitle": "çabalamak",
+      "correctAnswer": "çabalamak",
+      "wrongAnswer": "teslim olmak",
+      "exampleSentence": "Many families struggle to make ends meet.",
+      "boxId": 1
+    },
+    {
+      "question": "threaten",
+      "answerTitle": "tehdit etmek",
+      "correctAnswer": "tehdit etmek",
+      "wrongAnswer": "tedavi etmek",
+      "exampleSentence": "He threatened to call the police.",
+      "boxId": 1
+    },
+    {
+      "question": "understand",
+      "answerTitle": "anlamak",
+      "correctAnswer": "anlamak",
+      "wrongAnswer": "altında durmak",
+      "exampleSentence": "Do you understand what I mean?",
+      "boxId": 1
+    },
+    {
+      "question": "valuable",
+      "answerTitle": "değerli",
+      "correctAnswer": "değerli",
+      "wrongAnswer": "ucuz",
+      "exampleSentence": "This ring is very valuable to me.",
+      "boxId": 1
+    },
+    {
+      "question": "wander",
+      "answerTitle": "dolaşmak",
+      "correctAnswer": "dolaşmak",
+      "wrongAnswer": "merak etmek",
+      "exampleSentence": "We wandered around the old city for hours.",
+      "boxId": 1
+    },
+    {
+      "question": "yield",
+      "answerTitle": "ürün vermek / yol vermek",
+      "correctAnswer": "ürün vermek / yol vermek",
+      "wrongAnswer": "bağırmak",
+      "exampleSentence": "The farm yields a large crop every year.",
+      "boxId": 1
+    },
+    {
+      "question": "zealous",
+      "answerTitle": "istekli / gayretli",
+      "correctAnswer": "istekli / gayretli",
+      "wrongAnswer": "kıskanç",
+      "exampleSentence": "The workers were zealous in their duties.",
+      "boxId": 1
+    },
+    {
+      "question": "actual",
+      "answerTitle": "gerçek / asıl",
+      "correctAnswer": "gerçek / asıl",
+      "wrongAnswer": "güncel",
+      "exampleSentence": "The actual cost was higher than the estimate.",
+      "boxId": 1
+    },
+    {
+      "question": "borrow",
+      "answerTitle": "ödünç almak",
+      "correctAnswer": "ödünç almak",
+      "wrongAnswer": "ödünç vermek",
+      "exampleSentence": "Can I borrow your pen for a moment?",
+      "boxId": 1
+    },
+    {
+      "question": "lend",
+      "answerTitle": "ödünç vermek",
+      "correctAnswer": "ödünç vermek",
+      "wrongAnswer": "ödünç almak",
+      "exampleSentence": "I will lend you my car for the weekend.",
+      "boxId": 1
+    },
+    {
+      "question": "deny",
+      "answerTitle": "inkar etmek",
+      "correctAnswer": "inkar etmek",
+      "wrongAnswer": "kabul etmek",
+      "exampleSentence": "He denied stealing the money.",
+      "boxId": 1
+    },
+    {
+      "question": "admit",
+      "answerTitle": "itiraf etmek",
+      "correctAnswer": "itiraf etmek",
+      "wrongAnswer": "reddetmek",
+      "exampleSentence": "She admitted that she made a mistake.",
+      "boxId": 1
+    },
+    {
+      "question": "vacation",
+      "answerTitle": "tatil",
+      "correctAnswer": "tatil",
+      "wrongAnswer": "meslek",
+      "exampleSentence": "We are going on vacation next week.",
+      "boxId": 1
+    },
+    {
+      "question": "coincidence",
+      "answerTitle": "tesadüf",
+      "correctAnswer": "tesadüf",
+      "wrongAnswer": "kazayla",
+      "exampleSentence": "What a coincidence to see you here!",
+      "boxId": 1
+    },
+    {
+      "question": "explore",
+      "answerTitle": "keşfetmek",
+      "correctAnswer": "keşfetmek",
+      "wrongAnswer": "patlamak",
+      "exampleSentence": "They went to the jungle to explore new species.",
+      "boxId": 1
+    },
+    {
+      "question": "improve",
+      "answerTitle": "geliştirmek",
+      "correctAnswer": "geliştirmek",
+      "wrongAnswer": "kanıtlamak",
+      "exampleSentence": "I want to improve my English skills.",
+      "boxId": 1
+    },
+    {
+      "question": "prove",
+      "answerTitle": "kanıtlamak",
+      "correctAnswer": "kanıtlamak",
+      "wrongAnswer": "geliştirmek",
+      "exampleSentence": "Can you prove that you were at home?",
+      "boxId": 1
+    },
+    {
+      "question": "argument",
+      "answerTitle": "tartışma",
+      "correctAnswer": "tartışma",
+      "wrongAnswer": "belge",
+      "exampleSentence": "They had a heated argument about politics.",
+      "boxId": 1
+    },
+    {
+      "question": "currently",
+      "answerTitle": "şu anda",
+      "correctAnswer": "şu anda",
+      "wrongAnswer": "aslında",
+      "exampleSentence": "I am currently working on a new project.",
+      "boxId": 1
+    },
+    {
+      "question": "sympathetic",
+      "answerTitle": "halden anlayan",
+      "correctAnswer": "halden anlayan",
+      "wrongAnswer": "sempatik / şirin",
+      "exampleSentence": "He was very sympathetic when I lost my job.",
+      "boxId": 1
+    },
+    {
+      "question": "sensible",
+      "answerTitle": "mantıklı",
+      "correctAnswer": "mantıklı",
+      "wrongAnswer": "duygusal",
+      "exampleSentence": "It was a sensible decision to save money.",
+      "boxId": 1
+    },
+    {
+      "question": "sensitive",
+      "answerTitle": "hassas",
+      "correctAnswer": "hassas",
+      "wrongAnswer": "mantıklı",
+      "exampleSentence": "My teeth are very sensitive to cold water.",
+      "boxId": 1
+    },
+    {
+      "question": "resign",
+      "answerTitle": "istifa etmek",
+      "correctAnswer": "istifa etmek",
+      "wrongAnswer": "imzalamak",
+      "exampleSentence": "The minister decided to resign yesterday.",
+      "boxId": 1
+    },
+    {
+      "question": "novel",
+      "answerTitle": "roman",
+      "correctAnswer": "roman",
+      "wrongAnswer": "nobel",
+      "exampleSentence": "I am reading a novel by Orhan Pamuk.",
+      "boxId": 1
+    },
+    {
+      "question": "receipt",
+      "answerTitle": "fiş / makbuz",
+      "correctAnswer": "fiş / makbuz",
+      "wrongAnswer": "yemek tarifi",
+      "exampleSentence": "Keep your receipt in case you need to return it.",
+      "boxId": 1
+    },
+    {
+      "question": "recipe",
+      "answerTitle": "yemek tarifi",
+      "correctAnswer": "yemek tarifi",
+      "wrongAnswer": "makbuz",
+      "exampleSentence": "Can you give me the recipe for this cake?",
+      "boxId": 1
+    },
+    {
+      "question": "arm",
+      "answerTitle": "kol",
+      "correctAnswer": "kol",
+      "wrongAnswer": "ordu",
+      "exampleSentence": "He broke his arm while playing football.",
+      "boxId": 1
+    },
+    {
+      "question": "fabric",
+      "answerTitle": "kumaş",
+      "correctAnswer": "kumaş",
+      "wrongAnswer": "fabrika",
+      "exampleSentence": "This shirt is made of very soft fabric.",
+      "boxId": 1
+    },
+    {
+      "question": "hazard",
+      "answerTitle": "tehlike",
+      "correctAnswer": "tehlike",
+      "wrongAnswer": "kumar",
+      "exampleSentence": "Smoking is a serious health hazard.",
+      "boxId": 1
+    },
+    {
+      "question": "poverty",
+      "answerTitle": "yoksulluk",
+      "correctAnswer": "yoksulluk",
+      "wrongAnswer": "güç",
+      "exampleSentence": "They lived in extreme poverty.",
+      "boxId": 1
+    },
+    {
+      "question": "wealth",
+      "answerTitle": "zenginlik",
+      "correctAnswer": "zenginlik",
+      "wrongAnswer": "sağlık",
+      "exampleSentence": "Health is better than wealth.",
+      "boxId": 1
+    },
+    {
+      "question": "demand",
+      "answerTitle": "talep etmek",
+      "correctAnswer": "talep etmek",
+      "wrongAnswer": "zarar vermek",
+      "exampleSentence": "I demand an explanation for this mistake.",
+      "boxId": 1
+    }
+  ]
 ]
