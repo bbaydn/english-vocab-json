@@ -319,7 +319,6 @@
     "exampleSentence": "We need a different approach to this problem.",
     "boxId": 1
   },
-  [
     {
       "question": "achieve",
       "answerTitle": "başarmak",
@@ -720,5 +719,4 @@
       "exampleSentence": "I demand an explanation for this mistake.",
       "boxId": 1
     }
-  ]
 ]
